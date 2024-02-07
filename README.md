@@ -2,9 +2,10 @@
 <h1 align="center">Hey there👋 I'm Eddie. Galaxy's Future Emperor</h1>
 <h2 align="center">PRIVATE profile and repositories</h2>
 <h3 align="center">Software and Game Developer/Programmer</h3>
-<span align="right" max-width="50" >
+
+<span align="center" >
     
-![coding-freak align="right" witdh="400"](https://github.com/eddie-snow/eddie-snow/assets/107451363/a2f55385-1137-457a-b8f0-b8f1a0c5a54a)
+![coding-freak](https://github.com/eddie-snow/eddie-snow/assets/107451363/a2f55385-1137-457a-b8f0-b8f1a0c5a54a)
 
 </span>
 
@@ -18,6 +19,12 @@
 - 🔭 <b>others:</b> python, php, mysql, etc. And other adjacent technologies to previous above <br>
 - 🥷 also proficient with video making, drawing and digital art <br>
 - 👨‍💼 [entrepreneurial aspirations]
+  
+<span align="center" >
+    
+![0-1](https://github.com/eddie-snow/eddie-snow/assets/107451363/d00d430d-5d23-4897-902b-642088a40054)
+
+</span>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

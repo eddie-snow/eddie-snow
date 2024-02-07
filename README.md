@@ -1,16 +1,16 @@
 ![Header](https://i.pinimg.com/originals/38/fe/54/38fe547837c3a44e975fc5e23338dee8.jpg)
 <h1 align="center">Hey there👋 I'm Eddie. Galaxy's Future Emperor</h1>
-<h2 align="center">private profile and repositories</h2>
+<h2 align="center">PRIVATE profile and repositories</h2>
 <h3 align="center">Software and Game Developer/Programmer</h3>
 <img align="right" alt="code-img" width="400px" scr="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-- ✊ Stand with Africa and Global South against Imperialism and Neo-colonialism** <br>
-- 🌐 web dev: Html, css, Java Script <br>
-- 🤖 fullstack dev: MERN stack (mongo, express, react, node) <br> 
-- 📱 mobile dev: React native <br>
-- 💻 Desktop dev: Electron js <br>
-- 🎮 Game dev: Unreal Engine, Blender <br> 
-- 🎨 interface design: Figma <br>
-- 🔭 others: python, php, mysql, etc. And other adjacent technologies to previous above <br>
+- ✊ <i>Stand with Africa and The Global South against Imperialism and Neo-colonialism </i><br>
+- 🌐 <b>web dev:</b> Html, css, Java Script <br>
+- 🤖 <b>fullstack dev:</b> MERN stack (mongo, express, react, node) <br> 
+- 📱 <b>mobile dev:</b> React native <br>
+- 💻 <b>Desktop dev:</b> Electron js <br>
+- 🎮 <b>Game dev:</b> Unreal Engine, Blender <br> 
+- 🎨 <b>interface design:</b> Figma <br>
+- 🔭 <b>others:</b> python, php, mysql, etc. And other adjacent technologies to previous above <br>
 - 🥷 also proficient with video making, drawing and digital art <br>
 - 👨‍💼 [entrepreneurial aspirations]
 

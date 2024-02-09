@@ -14,7 +14,7 @@
 - 🤖 <b>fullstack dev:</b> MERN stack (mongo, express, react, node) <br> 
 - 📱 <b>mobile dev:</b> React native <br>
 - 💻 <b>Desktop dev:</b> Electron js <br>
-- 🎮 <b>Game dev:</b> Unreal Engine, Blender <br> 
+- 🎮 <b>Game dev:</b> Unreal Engine, Blender, Unity <br> 
 - 🎨 <b>interface design:</b> Figma <br>
 - 🔭 <b>others:</b> python, php, mysql, etc. And other adjacent technologies to previous above <br>
 - 🥷 also proficient with video making, drawing and digital art <br>

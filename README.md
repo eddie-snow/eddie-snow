@@ -16,9 +16,7 @@
 - 💻 <b>Desktop dev:</b> Electron js <br>
 - 🎮 <b>Game dev:</b> Unreal Engine, Blender, Unity <br> 
 - 🎨 <b>interface design:</b> Figma <br>
-- 🔭 <b>others:</b> python, php, mysql, etc. And other adjacent technologies to previous above <br>
-- 🥷 also proficient with video making, drawing and digital art <br>
-- 👨‍💼 [entrepreneurial aspirations]
+- 🔭🥷 <b>others:</b> python, php, mysql, etc. And other adjacent technologies to previous above <br>
   
 <span align="center" >
     

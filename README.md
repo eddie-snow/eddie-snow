@@ -14,10 +14,10 @@
 - 🤖 <b>fullstack dev:</b> MERN stack (mongo, express, react, node) <br> 
 - 📱 <b>mobile dev:</b> React native <br>
 - 💻 <b>Desktop dev:</b> Electron js <br>
-- 🎮 <b>Game dev:</b> Blender, Unity <br> 
+- 🎮 <b>Game dev:</b> Blender, Unreal engine, c++ <br> 
 - 🎨 <b>interface design (UI, UX):</b> Figma <br>
 - 🔭 <b>others:</b> C, lua, python, php, mysql, git, github, etc. And other adjacent technologies to previous above<br>
-- 🥷 <b>to try:</b> Unreal Engine, c++, Django, Lavarel, RubyonRails, Angular, typescript, Rust, .net, kali linux, AI, machine Learning, Assembly etc
+- 🥷 <b>played with:</b> Django, Lavarel, RubyonRails, Angular, typescript, .net, kali linux, AI, machine Learning, Assembly etc
   
 <span align="center" >
     

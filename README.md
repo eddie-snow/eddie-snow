@@ -17,7 +17,7 @@
 - 🎮 <b>Game dev:</b> Blender, Unreal engine, c++ <br> 
 - 🎨 <b>interface design (UI, UX):</b> Figma <br>
 - 🔭 <b>others:</b> C, lua, python, php, mysql, git, github, etc. And other adjacent technologies to previous above<br>
-- 🥷 <b>played with:</b> Django, Lavarel, RubyonRails, Angular, typescript, .net, kali linux, AI, machine Learning, Assembly etc
+- 🥷 <b>played with:</b> kali linux, AI, machine Learning, etc
   
 <span align="center" >
     

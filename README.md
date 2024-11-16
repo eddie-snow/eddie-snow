@@ -9,15 +9,15 @@
 
 </span>
 
-- ✊ <i>Stand with Africa and The Global South against Imperialism and Neo-colonialism </i><br>
+- ✊ <i>>NO enemies </i><br>
 - 🌐 <b>web dev:</b> Html, css, JavaScript <br>
 - 🤖 <b>fullstack dev:</b> MERN stack (mongo, express, react, node) <br> 
-- 📱 <b>mobile dev:</b> React native <br>
+- 📱 <b>mobile dev:</b> React native, KOTLIN android dev<br>
 - 💻 <b>Desktop dev:</b> Electron js <br>
-- 🎮 <b>Game dev:</b> Blender, Unreal engine, c++ <br> 
+- 🎮 <b>Game dev:</b> Blender, Unity, c#, c++ <br> 
 - 🎨 <b>interface design (UI, UX):</b> Figma <br>
 - 🔭 <b>others:</b> C, lua, python, php, mysql, git, github, etc. And other adjacent technologies to previous above<br>
-- 🥷 <b>played with:</b> kali linux, AI, machine Learning, etc
+- 🥷 <b>...:</b> kali linux, AI, machine Learning, crypto etc
   
 <span align="center" >
     

@@ -10,6 +10,10 @@
 </span>
 
 - ✊ <i>>NO enemies </i><br>
+https://editson-protectourplanet.netlify.app
+https://editson-uchiha.netlify.app
+https://editson-mortymemory.netlify.app
+https://editson-mariojumper.netlify.app
 - 🌐 <b>web dev:</b> Html, css, JavaScript <br>
 - 🤖 <b>fullstack dev:</b> MERN stack (mongo, express, react, node) <br> 
 - 📱 <b>mobile dev:</b> React native, KOTLIN android dev<br>

@@ -9,7 +9,7 @@
 
 </span>
 
-- ✊ <i>>NO enemies </i><br>
+- <i>>"you have no enemies, no one has enemies" </i><br>
 https://editson-protectourplanet.netlify.app <br>
 https://editson-uchiha.netlify.app <br>
 https://editson-mortymemory.netlify.app <br>

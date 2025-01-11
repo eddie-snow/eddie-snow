@@ -1,7 +1,7 @@
 ![Header](https://github.com/eddie-snow/eddie-snow/assets/107451363/428bb986-6bf7-4069-9519-7a8c5cf8daa1)
-<h1 align="center">Hey there👋 I'm Eddie. Galaxy's Future Emperor</h1>
+<h1 align="center">Hey there👋 I'm Ed. Galaxy's Future Emperor</h1>
 <h2 align="center">PRIVATE profile and repositories</h2>
-<h3 align="center">Software and Game Developer/Programmer</h3>
+<h3 align="center">Software and Game Developer</h3>
 
 <span align="center" >
     
@@ -16,11 +16,11 @@ https://editson-mortymemory.netlify.app <br>
 https://editson-mariojumper.netlify.app <br>
 - 🌐 <b>web dev:</b> Html, css, JavaScript <br>
 - 🤖 <b>fullstack dev:</b> MERN stack (mongo, express, react, node) <br> 
-- 📱 <b>mobile dev:</b> React native, KOTLIN android dev<br>
+- 📱 <b>mobile dev:</b> React native <br>
 - 💻 <b>Desktop dev:</b> Electron js <br>
 - 🎮 <b>Game dev:</b> Blender, Unity, c#, c++ <br> 
 - 🎨 <b>interface design (UI, UX):</b> Figma <br>
-- 🔭 <b>others:</b> C, lua, python, php, mysql, git, github, etc. And other adjacent technologies to previous above<br>
+- 🔭 <b>others:</b> C, python, php, mysql, git, github, etc. And other adjacent technologies to previous above<br>
 - 🥷 <b>...:</b> kali linux, AI, machine Learning, crypto etc
   
 <span align="center" >

@@ -1,5 +1,5 @@
 ![Header](https://github.com/eddie-snow/eddie-snow/assets/107451363/428bb986-6bf7-4069-9519-7a8c5cf8daa1)
-<h1 align="center">Hey there👋 I'm Ed. Galaxy's Future Emperor</h1>
+<h1 align="center">Hey there👋 I'm Ed. greatest of all time </h1>
 <h2 align="center">PRIVATE profile and repositories</h2>
 <h3 align="center">Software and Game Developer</h3>
 

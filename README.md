@@ -14,6 +14,7 @@ https://editson-protectourplanet.netlify.app <br>
 https://editson-uchiha.netlify.app <br>
 https://editson-mortymemory.netlify.app <br>
 https://editson-mariojumper.netlify.app <br>
+trying to master:
 - 🌐 <b>web dev:</b> Html, css, JavaScript <br>
 - 🤖 <b>fullstack dev:</b> MERN stack (mongo, express, react, node) <br> 
 - 📱 <b>mobile dev:</b> React native <br>

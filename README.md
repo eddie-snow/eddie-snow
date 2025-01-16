@@ -1,7 +1,7 @@
 ![Header](https://github.com/eddie-snow/eddie-snow/assets/107451363/428bb986-6bf7-4069-9519-7a8c5cf8daa1)
-<h1 align="center">Hey there👋 I'm Ed. greatest of all time </h1>
-<h2 align="center">PRIVATE profile and repositories</h2>
-<h3 align="center">Software and Game Developer</h3>
+<h1 align="center">Hey there👋 I'm Eddie, the greatest of all time </h1>
+<h2 align="center">Software and Game Dev projects</h2>
+<h3 align="center">if you can not find a way, create one</h3>
 
 <span align="center" >
     
